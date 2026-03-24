@@ -6,7 +6,7 @@ namespace TeamApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Team Application");
+            Console.WriteLine("Welcome to the C# Collaboration Project");
 
             ShowMenu();
         }
