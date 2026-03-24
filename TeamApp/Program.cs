@@ -28,6 +28,10 @@ namespace TeamApp
             {
                 Calculator();
             }
+            else if (choice == 3)
+            {
+                Console.WriteLine("Goodbye!");
+            }
         }
 
         static void Greeting()
